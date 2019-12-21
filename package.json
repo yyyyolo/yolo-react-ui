@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/yyyyolo/yolo-react-ui/issues"
   },
-  "homepage": "https://github.com/yyyyolo/yolo-react-ui#readme"
+  "homepage": "https://github.com/yyyyolo/yolo-react-ui#readme",
+  "devDependencies": {
+    "typescript": "^3.7.3",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  },
+  "dependencies": {
+    "awesome-typescript-loader": "^5.2.1"
+  }
 }
