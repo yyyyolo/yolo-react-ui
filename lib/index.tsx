@@ -1,2 +1,4 @@
-console.log('a')
-console.log('hello yoyo')
+
+const div=document.createElement('div')
+div.innerHTML='yolo ui'
+document.body.appendChild(div)
