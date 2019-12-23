@@ -1,7 +1,7 @@
-import  React from "react"
+import * as React from "react"
 function Button(){
     return (
-        React.createElement('div',null,'button')
+       <div>hahha</div>
     )
 }
 export default Button

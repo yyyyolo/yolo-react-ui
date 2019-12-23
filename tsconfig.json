@@ -1,12 +1,15 @@
 {
     "compilerOptions": {
-        "module": "commonjs",
+        "outDir": "dist",
+        "declaration": true,
+        "baseUrl": ".",
+        "module": "esnext",
         "target": "es5",
         "allowJs": true,
         "checkJs": false,
         "jsx": "react",
-        "outDir": "./build",
-        "rootDir": "./lib",
+    
+        "rootDir": ".",
         "removeComments": true,
         "noEmit": true,
         "pretty": true,
